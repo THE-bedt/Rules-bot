@@ -5,7 +5,7 @@ const client = new Discord.Client();
 client.on("ready", () => {
 
     console.log("Bot online")
-    client.user.setActivity("Watching Rule\'s")
+    client.user.setActivity("Watching Rule\'s || made by ThunderDEV#1111")
 })
 
 
