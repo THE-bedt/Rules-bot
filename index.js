@@ -7,7 +7,7 @@ client.on("ready", () => {
     console.log("Bot online")
     client.user.setActivity("Watching Rule\'s || made by ThunderDEV#1111")
 })
-
+                                                //🔝 don't forget to give me credit 😉       
 
 client.on('message', message => {
   if (message.content === '!r1') {
